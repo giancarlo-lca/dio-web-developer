@@ -1,0 +1,20 @@
+.navbar {
+    background-color: cornflowerblue !important;
+}
+
+.home {
+    background-color: aquamarine;
+}
+
+.parceiros {
+    background-color: cadetblue;
+}
+
+.servicos {
+     background-color: burlywood;
+}
+
+.bg-footer {
+    background-color: rgb(2 2 2 / 81%);
+    color: white;
+}
